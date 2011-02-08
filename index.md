@@ -9,7 +9,7 @@ title: Index
 Active Public Repositories
 ==========================
 
-* [ruby-jlog - Ruby extensions for the jlog](http://github.com/mbainter/ruby-jlog)
+* [ruby-jlog - Ruby extensions for jlog](http://github.com/mbainter/ruby-jlog)
 
 
 Recent Posts
